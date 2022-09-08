@@ -7,3 +7,9 @@ Hence introducing:
 ```
 ## AF1-scouter
 A Python script that scrapes store websites to see if AF1 is available in my size.
+
+### TODOs
+- make into CLI
+  - make `size`, `product`, `retry timeout` configurable
+- setup `virtualenv`
+- add usage instructions
