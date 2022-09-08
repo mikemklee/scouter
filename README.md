@@ -16,3 +16,4 @@ A Python script that scrapes store websites to see if AF1 is available in my siz
   - make `size`, `product`, `retry timeout` configurable
 - setup `virtualenv`
 - add usage instructions
+- send notifications on discord?
