@@ -1,1 +1,1 @@
-from af1 import AirForceOneScouter
+from scouters.af1 import AirForceOneScouter
